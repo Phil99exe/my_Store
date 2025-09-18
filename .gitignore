@@ -1,0 +1,13 @@
+venv/
+.pylintrs
+__pycache__/
+
+.vscode
+.ida
+.env
+djang.log
+security.log
+
+db.sqlite3
+media/
+debug.log
